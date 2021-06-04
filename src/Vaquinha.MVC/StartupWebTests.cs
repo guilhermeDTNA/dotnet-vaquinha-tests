@@ -32,7 +32,7 @@ namespace Vaquinha.MVC
             }, new NToastNotifyOption
             {
                 DefaultSuccessTitle = "Yeah!",
-                DefaultSuccessMessage = "Operação realizada com sucesso!",
+                DefaultSuccessMessage = "Operaï¿½ï¿½o realizada com sucesso!",
 
                 DefaultErrorTitle = "Ops!",
                 DefaultErrorMessage = "Algo deu errado!"
